@@ -1,7 +1,7 @@
 # Crossy-Jump-Infinity
 Hyper Casual Game For Android
 
-<img src="https://user-images.githubusercontent.com/36422119/79598884-54691a00-80ed-11ea-923d-7b0ffd569244.jpg" width="48">
+<img src="https://user-images.githubusercontent.com/36422119/79598884-54691a00-80ed-11ea-923d-7b0ffd569244.jpg" width="300">
 
 ![alt text](https://user-images.githubusercontent.com/36422119/79598884-54691a00-80ed-11ea-923d-7b0ffd569244.jpg)
 
